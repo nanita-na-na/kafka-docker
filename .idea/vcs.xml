@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/kafka-docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kafka-docker/consumer-nosql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kafka-docker/consumer-sql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/kafka-docker/producer" vcs="Git" />
+  </component>
+</project>
